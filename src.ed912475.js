@@ -32598,7 +32598,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _dahongfei = require("./../../assets/dahongfei.jpeg");
+var _dahongfei = require("dahongfei.jpeg");
 
 var _dahongfei2 = _interopRequireDefault(_dahongfei);
 
@@ -32612,7 +32612,7 @@ var DaHongFei = {
 };
 
 exports.default = DaHongFei;
-},{"./../../assets/dahongfei.jpeg":341}],343:[function(require,module,exports) {
+},{"dahongfei.jpeg":341}],343:[function(require,module,exports) {
 module.exports="/JohnM.4d985156.png";
 },{}],332:[function(require,module,exports) {
 'use strict';
@@ -32621,7 +32621,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _JohnM = require('./../../assets/JohnM.png');
+var _JohnM = require('JohnM.png');
 
 var _JohnM2 = _interopRequireDefault(_JohnM);
 
@@ -32635,7 +32635,7 @@ var McAfee = {
 };
 
 exports.default = McAfee;
-},{"./../../assets/JohnM.png":343}],342:[function(require,module,exports) {
+},{"JohnM.png":343}],342:[function(require,module,exports) {
 module.exports="/JustinS.a1d50c8d.jpg";
 },{}],333:[function(require,module,exports) {
 'use strict';
@@ -32644,7 +32644,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _JustinS = require('./../../assets/JustinS.jpg');
+var _JustinS = require('JustinS.jpg');
 
 var _JustinS2 = _interopRequireDefault(_JustinS);
 
@@ -32658,7 +32658,7 @@ var JustinSun = {
 };
 
 exports.default = JustinSun;
-},{"./../../assets/JustinS.jpg":342}],344:[function(require,module,exports) {
+},{"JustinS.jpg":342}],344:[function(require,module,exports) {
 module.exports="/SuppoMan.1ad10efe.jpg";
 },{}],334:[function(require,module,exports) {
 'use strict';
@@ -32667,7 +32667,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _SuppoMan = require('./../../assets/SuppoMan.jpg');
+var _SuppoMan = require('SuppoMan.jpg');
 
 var _SuppoMan2 = _interopRequireDefault(_SuppoMan);
 
@@ -32681,7 +32681,7 @@ var SuppoMan = {
 };
 
 exports.default = SuppoMan;
-},{"./../../assets/SuppoMan.jpg":344}],346:[function(require,module,exports) {
+},{"SuppoMan.jpg":344}],346:[function(require,module,exports) {
 module.exports="/RogerV.0491224f.jpg";
 },{}],335:[function(require,module,exports) {
 'use strict';
@@ -32690,7 +32690,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _RogerV = require('./../../assets/RogerV.jpg');
+var _RogerV = require('RogerV.jpg');
 
 var _RogerV2 = _interopRequireDefault(_RogerV);
 
@@ -32704,7 +32704,7 @@ var RogerVer = {
 };
 
 exports.default = RogerVer;
-},{"./../../assets/RogerV.jpg":346}],345:[function(require,module,exports) {
+},{"RogerV.jpg":346}],345:[function(require,module,exports) {
 module.exports="/IanB.152b5e7f.jpeg";
 },{}],336:[function(require,module,exports) {
 'use strict';
@@ -32713,7 +32713,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _IanB = require('./../../assets/IanB.jpeg');
+var _IanB = require('IanB.jpeg');
 
 var _IanB2 = _interopRequireDefault(_IanB);
 
@@ -32727,7 +32727,7 @@ var IanBalina = {
 };
 
 exports.default = IanBalina;
-},{"./../../assets/IanB.jpeg":345}],347:[function(require,module,exports) {
+},{"IanB.jpeg":345}],347:[function(require,module,exports) {
 module.exports="/vitalik.91e4e224.jpg";
 },{}],337:[function(require,module,exports) {
 'use strict';
@@ -32736,7 +32736,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _vitalik = require('./../../assets/vitalik.jpg');
+var _vitalik = require('vitalik.jpg');
 
 var _vitalik2 = _interopRequireDefault(_vitalik);
 
@@ -32750,7 +32750,7 @@ var Vitalik = {
 };
 
 exports.default = Vitalik;
-},{"./../../assets/vitalik.jpg":347}],349:[function(require,module,exports) {
+},{"vitalik.jpg":347}],349:[function(require,module,exports) {
 module.exports="/mohnish_buffett_20130608.fd5abd7e.png";
 },{}],338:[function(require,module,exports) {
 'use strict';
@@ -32759,7 +32759,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _mohnish_buffett_ = require('./../../assets/mohnish_buffett_20130608.png');
+var _mohnish_buffett_ = require('mohnish_buffett_20130608.png');
 
 var _mohnish_buffett_2 = _interopRequireDefault(_mohnish_buffett_);
 
@@ -32773,7 +32773,7 @@ var WarrenBuffet = {
 };
 
 exports.default = WarrenBuffet;
-},{"./../../assets/mohnish_buffett_20130608.png":349}],348:[function(require,module,exports) {
+},{"mohnish_buffett_20130608.png":349}],348:[function(require,module,exports) {
 module.exports="/whale.e0cd00cc.png";
 },{}],339:[function(require,module,exports) {
 'use strict';
@@ -32782,7 +32782,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _whale = require('./../../assets/whale.png');
+var _whale = require('whale.png');
 
 var _whale2 = _interopRequireDefault(_whale);
 
@@ -32796,7 +32796,7 @@ var DaHongFei = {
 };
 
 exports.default = DaHongFei;
-},{"./../../assets/whale.png":348}],306:[function(require,module,exports) {
+},{"whale.png":348}],306:[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -32829,7 +32829,7 @@ var _classnames = require("classnames");
 
 var _classnames2 = _interopRequireDefault(_classnames);
 
-var _logo = require("./../../assets/logo.png");
+var _logo = require("logo.png");
 
 var _logo2 = _interopRequireDefault(_logo);
 
@@ -33136,7 +33136,7 @@ NOSActions.propTypes = {
 };
 
 exports.default = (0, _nos.injectNOS)((0, _reactJss2.default)(styles)(NOSActions));
-},{"react":4,"react-jss":9,"prop-types":260,"@nosplatform/api-functions/es6":352,"../../nos":350,"../ProfileLayout":351,"classnames":340,"./../../assets/logo.png":330,"../Profiles/DaHongFei":331,"../Profiles/JohnMacafee":332,"../Profiles/JustinSun":333,"../Profiles/SuppoMan":334,"../Profiles/RogerV":335,"../Profiles/IanBalina":336,"../Profiles/Vitalik":337,"../Profiles/WarrenBuffet":338,"../Profiles/NosWhale":339}],264:[function(require,module,exports) {
+},{"react":4,"react-jss":9,"prop-types":260,"@nosplatform/api-functions/es6":352,"../../nos":350,"../ProfileLayout":351,"classnames":340,"logo.png":330,"../Profiles/DaHongFei":331,"../Profiles/JohnMacafee":332,"../Profiles/JustinSun":333,"../Profiles/SuppoMan":334,"../Profiles/RogerV":335,"../Profiles/IanBalina":336,"../Profiles/Vitalik":337,"../Profiles/WarrenBuffet":338,"../Profiles/NosWhale":339}],264:[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
