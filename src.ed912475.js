@@ -32588,9 +32588,9 @@ ProfileLayout.propTypes = {
 
 exports.default = (0, _reactJss2.default)(styles)(ProfileLayout);
 },{"react":4,"react-jss":9,"prop-types":260,"classnames":340}],330:[function(require,module,exports) {
-module.exports="/logo.67222a73.png";
+module.exports="./logo.67222a73.png";
 },{}],341:[function(require,module,exports) {
-module.exports="/dahongfei.fdb5800a.jpeg";
+module.exports="./dahongfei.fdb5800a.jpeg";
 },{}],331:[function(require,module,exports) {
 "use strict";
 
@@ -32613,7 +32613,7 @@ var DaHongFei = {
 
 exports.default = DaHongFei;
 },{"./CryptoStars/dahongfei.jpeg":341}],343:[function(require,module,exports) {
-module.exports="/JohnM.4d985156.png";
+module.exports="./JohnM.4d985156.png";
 },{}],332:[function(require,module,exports) {
 'use strict';
 
@@ -32636,7 +32636,7 @@ var McAfee = {
 
 exports.default = McAfee;
 },{"./CryptoStars/JohnM.png":343}],342:[function(require,module,exports) {
-module.exports="/JustinS.a1d50c8d.jpg";
+module.exports="./JustinS.a1d50c8d.jpg";
 },{}],333:[function(require,module,exports) {
 'use strict';
 
@@ -32659,7 +32659,7 @@ var JustinSun = {
 
 exports.default = JustinSun;
 },{"./CryptoStars/JustinS.jpg":342}],344:[function(require,module,exports) {
-module.exports="/SuppoMan.1ad10efe.jpg";
+module.exports="./SuppoMan.1ad10efe.jpg";
 },{}],334:[function(require,module,exports) {
 'use strict';
 
@@ -32682,7 +32682,7 @@ var SuppoMan = {
 
 exports.default = SuppoMan;
 },{"./CryptoStars/SuppoMan.jpg":344}],346:[function(require,module,exports) {
-module.exports="/RogerV.0491224f.jpg";
+module.exports="./RogerV.0491224f.jpg";
 },{}],335:[function(require,module,exports) {
 'use strict';
 
@@ -32705,7 +32705,7 @@ var RogerVer = {
 
 exports.default = RogerVer;
 },{"./CryptoStars/RogerV.jpg":346}],345:[function(require,module,exports) {
-module.exports="/IanB.152b5e7f.jpeg";
+module.exports="./IanB.152b5e7f.jpeg";
 },{}],336:[function(require,module,exports) {
 'use strict';
 
@@ -32728,7 +32728,7 @@ var IanBalina = {
 
 exports.default = IanBalina;
 },{"./CryptoStars/IanB.jpeg":345}],347:[function(require,module,exports) {
-module.exports="/vitalik.91e4e224.jpg";
+module.exports="./vitalik.91e4e224.jpg";
 },{}],337:[function(require,module,exports) {
 'use strict';
 
@@ -32751,7 +32751,7 @@ var Vitalik = {
 
 exports.default = Vitalik;
 },{"./CryptoStars/vitalik.jpg":347}],349:[function(require,module,exports) {
-module.exports="/mohnish_buffett_20130608.fd5abd7e.png";
+module.exports="./mohnish_buffett_20130608.fd5abd7e.png";
 },{}],338:[function(require,module,exports) {
 'use strict';
 
@@ -32774,7 +32774,7 @@ var WarrenBuffet = {
 
 exports.default = WarrenBuffet;
 },{"./CryptoStars/mohnish_buffett_20130608.png":349}],348:[function(require,module,exports) {
-module.exports="/whale.e0cd00cc.png";
+module.exports="./whale.e0cd00cc.png";
 },{}],339:[function(require,module,exports) {
 'use strict';
 
